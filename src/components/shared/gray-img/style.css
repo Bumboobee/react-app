@@ -1,0 +1,23 @@
+.gray-img {
+    filter: grayscale(125%);
+    width: 380px;
+    height: 250px;
+    margin-top: 10px;
+}
+
+.color-img {
+    filter: greyscale(25%);
+    width: 380px;
+    height: 250px;
+    margin-top: 10px;
+}
+
+.main {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
+h3 {
+    text-align: center;
+    color: #5A7684; 
+}
