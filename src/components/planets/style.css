@@ -1,0 +1,17 @@
+.btn-remove {
+    border: 1px solid aqua;
+    border-radius: 3px;
+    padding: 12px;
+    background-color: transparent;
+    color: white;
+    transition: .2s ease;
+}
+.btn-remove:hover {
+    opacity: 0.6;
+    cursor: pointer;
+    transition: .2s ease;
+}
+.btn-main {
+    justify-content: center;
+    display: flex;
+}
